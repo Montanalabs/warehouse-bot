@@ -1,0 +1,7 @@
+name = "warehouse-bot"
+version = "0.1.0"
+description = "Warehouse-bot dispatcher"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
